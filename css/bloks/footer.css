@@ -1,0 +1,7 @@
+.socials {
+  width: 150px;
+  margin-top: -2px;
+  display: flex;
+  justify-items: center;
+  justify-content: space-around;
+}
