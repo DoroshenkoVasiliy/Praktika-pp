@@ -12,3 +12,8 @@ body {
   margin: 0 auto;
   max-width: 80ch;
 }
+.your-style {
+  font-family: "Progex";
+  font-weight: normal;
+  font-style: normal;
+}
